@@ -46,7 +46,7 @@ The work included:
 ---
 
 # System Architecture
-
+![Architecture](docs/architecture.png)
 ```text
                  +----------------------+
                  |     Operator PC      |
