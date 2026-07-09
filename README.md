@@ -263,31 +263,19 @@ Mobile-Logistics-Robot/
 
 ## Final Robot
 
-![Final Robot](images/final_robot.jpg)
+![Final Robot](images/Robot.jpeg)
 
 ---
 
 ## CAD Design
 
-![CAD Model](images/cad_render.png)
-
----
-
-## ROS Visualization (RViz)
-
-![RViz](images/rviz.png)
+![CAD Model](images/RobotCADRender.png)
 
 ---
 
 ## LiDAR Mapping
 
-![LiDAR](images/lidar_scan.png)
-
----
-
-## Hardware Integration
-
-![Hardware](images/hardware.jpg)
+![LiDAR](images/LidarScan.png)
 
 ---
 
