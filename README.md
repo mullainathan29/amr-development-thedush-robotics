@@ -180,7 +180,7 @@ The electrical architecture consists of:
 - Emergency Stop Circuit
 - Human Machine Interface (HMI)
 
-![Wiring Overview](docs/wiring_overview.png)
+![Wiring Overview](docs/wiring.png)
 
 ---
 
