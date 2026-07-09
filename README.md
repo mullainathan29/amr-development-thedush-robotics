@@ -47,29 +47,6 @@ The work included:
 
 # System Architecture
 ![Architecture](docs/architecture.png)
-```text
-                 +----------------------+
-                 |     Operator PC      |
-                 +----------+-----------+
-                            |
-                            |
-                      ROS Communication
-                            |
-                            ▼
-                 +----------------------+
-                 |  NVIDIA Jetson Nano  |
-                 +----------+-----------+
-                            |
-      +----------+----------+-----------+-----------+
-      |          |                      |           |
-      ▼          ▼                      ▼           ▼
-  LiDAR      RealSense             Motor Driver    HMI
-      |                               |
-      +---------------+---------------+
-                      |
-                      ▼
-            Differential Drive Robot
-```
 
 ---
 
